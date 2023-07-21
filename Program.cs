@@ -9,6 +9,6 @@ Console.WriteLine($"{num} в кубе = {numInCube}");
 Person ivan = new Person("Ivan", 26);
 Person oleg = new Person("Oleg", 55);
 
-oleg.Info();
-
+//oleg.Info удалён
 ivan.Run();
+Console.WriteLine("Конфликтная строчка во 2й ветке");
