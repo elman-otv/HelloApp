@@ -11,4 +11,6 @@ Person oleg = new Person("Oleg", 55);
 
 oleg.Info();
 
-ivan.Run();
+//ivan.Run удалён
+
+Console.WriteLine("В мейн ветке конфл");
