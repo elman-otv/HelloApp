@@ -30,7 +30,7 @@ namespace HelloApp
 
         public void Run()
         {
-            Console.WriteLine($"{Id}.{Name} is running!");
+            Console.WriteLine($"{Name} is running!");
         }
 
 
