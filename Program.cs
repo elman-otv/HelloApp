@@ -13,4 +13,4 @@ oleg.Info();
 
 //ivan.Run удалён
 
-Console.WriteLine("В мейн ветке конфл");
+Car car = new Car();   
