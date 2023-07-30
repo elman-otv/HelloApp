@@ -13,4 +13,7 @@ oleg.Info();
 
 //ivan.Run удалён
 
-Car car = new Car();   
+Car car = new Car();
+
+car.Name = "BMW";
+car.Color = "Black";

@@ -8,5 +8,8 @@ namespace HelloApp
 {
     internal class Car
     {
+        public string Name { get; set; }
+        public string Color { get; set; }
+
     }
 }
